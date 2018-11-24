@@ -1,16 +1,15 @@
 
 	                        the Output Of Newsdb.py
-
 the most popular articles :
-('Candidate is jerk, alleges rival', 338647L)
-('Bears love berries, alleges bear', 253801L)
-('Bad things gone, say good people', 170098L)
+" Candidate is jerk, alleges rival " 338647 views
+" Bears love berries, alleges bear " 253801 views
+" Bad things gone, say good people " 170098 views
 -----------------------------
 most popular article authors
-('Ursula La Multa', 507594L)
-('Rudolf von Treppenwitz', 423457L)
-('Anonymous Contributor', 170098L)
-('Markoff Chaney', 84557L)
+" Ursula La Multa ", 507594 views
+" Rudolf von Treppenwitz ", 423457 views
+" Anonymous Contributor ", 170098 views
+" Markoff Chaney ", 84557 views
 -----------------------------
 days did more than 1 percent of requests lead to errors
-[('2016-07-17', ('2.263'))]
+[('2016-07-17', Decimal('2.263'))]
